@@ -1,0 +1,42 @@
+_repo: The-achievements-of-Luther-Trant_75523
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Oberhardt, William
+    gutenberg_agent_id: '58036'
+    url: http://www.gutenberg.org/2009/agents/58036
+creator:
+  authors:
+  - agent_name: Balmer, Edwin
+    birthdate: 1883
+    deathdate: 1959
+    gutenberg_agent_id: '36187'
+    url: http://www.gutenberg.org/2009/agents/36187
+    wikipedia: https://en.wikipedia.org/wiki/Edwin_Balmer
+  - agent_name: MacHarg, William
+    aliases:
+    - MacHarg, William B.
+    - MacHarg, William Briggs
+    birthdate: 1872
+    deathdate: 1951
+    gutenberg_agent_id: '36186'
+    url: http://www.gutenberg.org/2009/agents/36186
+description: ''
+gutenberg_issued: '2025-03-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75523'
+language: en
+pgterms:marc904: https://catalog.hathitrust.org/Record/000122574
+pgterms:marc905: 20250227053317balmer
+pgterms:marc906: '1909'
+pgterms:marc907: US
+production_note: Brian Raiter
+publication_note: '  $aBoston, MA :$bSmall, Maynard & Company, $c1909, copyright 1910.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The achievements of Luther Trant
+url: http://www.gutenberg.org/ebooks/75523
