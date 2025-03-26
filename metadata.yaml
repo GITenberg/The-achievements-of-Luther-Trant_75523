@@ -5,6 +5,9 @@ contributor:
     agent_name: Oberhardt, William
     gutenberg_agent_id: '58036'
     url: http://www.gutenberg.org/2009/agents/58036
+covers:
+- cover_type: archival
+  image_path: 75523-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Balmer, Edwin
@@ -22,6 +25,8 @@ creator:
     gutenberg_agent_id: '36186'
     url: http://www.gutenberg.org/2009/agents/36186
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75523#The-achievements-of-Luther-Trant
 gutenberg_issued: '2025-03-04'
 gutenberg_type: Text
 identifiers:
